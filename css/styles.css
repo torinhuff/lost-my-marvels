@@ -1,0 +1,65 @@
+h1 {
+  font-family: 'Barriecito', cursive;
+  font-size: 132px;
+  text-align: center;
+}
+
+#l-1 {
+  color: #42c5f5;
+}
+
+#o {
+  color: #a31f2e;
+}
+
+#s-1 {
+  color: #f7e62d;
+}
+
+#t {
+  color: #42c5f5;
+}
+
+#m-1 {
+  color: #a31f2e
+}
+
+#y {
+  color: #f7e62d;
+}
+
+#m-2 {
+  color: #42c5f5;
+}
+
+#a {
+  color: #a31f2e;
+}
+
+#r {
+  color: #f7e62d;
+}
+
+#v {
+  color: #42c5f5;
+}
+
+#e {
+  color: #a31f2e;
+}
+
+#l-2 {
+  color: #f7e62d;
+}
+
+#s-2 {
+  color: #42c5f5;
+}
+
+p {
+  margin-top:24px;
+  margin-bottom: 0%;
+  margin-left: 75%;
+  font-size: 36px;
+  font-family: 'Bahianita', cursive;
+}
